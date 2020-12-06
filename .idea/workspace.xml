@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9e025263-6c3c-4aa8-a378-e7262c7aefff" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/views/pages/edit.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/controllers/HomeController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/controllers/HomeController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/controllers/UsuariosController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/controllers/UsuariosController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/routes.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/pages/home.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/pages/home.php" afterDir="false" />
-    </list>
+    <list default="true" id="9e025263-6c3c-4aa8-a378-e7262c7aefff" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,6 +26,9 @@
       <path value="$PROJECT_DIR$/vendor/composer" />
       <path value="$PROJECT_DIR$/vendor/clancats/hydrahon" />
     </include_path>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="1" />
   </component>
   <component name="ProjectId" id="1lHn2VNzztvt3ny2MgfpRaIDeSU" />
   <component name="ProjectLevelVcsManager">
@@ -68,7 +64,7 @@
       <workItem from="1607262683194" duration="5118000" />
       <workItem from="1607269549643" duration="2344000" />
       <workItem from="1607273604959" duration="1269000" />
-      <workItem from="1607278056598" duration="6252000" />
+      <workItem from="1607278056598" duration="6572000" />
     </task>
     <servers />
   </component>
