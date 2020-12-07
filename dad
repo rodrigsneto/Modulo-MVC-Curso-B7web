@@ -1,0 +1,47 @@
+[33mcommit 7cfe139a292efdeb33867d2f3188148a7d9aebef[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Rodrigues Neto <rodriguesneto95@outlook.com>
+Date:   Sun Dec 6 17:33:01 2020 -0300
+
+    Adicionado estilo CSS e botões com imagens
+
+[33mcommit f4d6b63b560bd2a6cea2905b7305835efc22d830[m
+Author: Rodrigues Neto <rodriguesneto95@outlook.com>
+Date:   Sun Dec 6 17:12:15 2020 -0300
+
+    Corrigindo README
+
+[33mcommit 12cacfcaa6a5a03c277878687ac37b411d6fb260[m
+Author: Rodrigues Neto <rodriguesneto95@outlook.com>
+Date:   Sun Dec 6 17:11:19 2020 -0300
+
+    Atualizando o README
+
+[33mcommit cbbd8f132411a34f7c5f5997a78627c078cb19f0[m
+Author: Rodrigues Neto <rodriguesneto95@outlook.com>
+Date:   Sun Dec 6 17:04:55 2020 -0300
+
+    Adicionado READ Editar e Excluir
+
+[33mcommit 0613d70fe8372502997d7b30a3363cc73a407502[m
+Author: Rodrigues Neto <rodriguesneto95@outlook.com>
+Date:   Sun Dec 6 16:06:18 2020 -0300
+
+    Adicionado CREATE
+
+[33mcommit accca9ecf0d7f685bbe0c5f0fb9337b441f5b6f3[m
+Author: Rodrigues Neto <rodriguesneto95@outlook.com>
+Date:   Sun Dec 6 11:14:15 2020 -0300
+
+    ignore Arquivos PHPStorm
+
+[33mcommit 202a7f4093542c63bae03b7742011e5c7aaa2aeb[m
+Author: Rodrigues Neto <rodriguesneto95@outlook.com>
+Date:   Sat Dec 5 19:03:42 2020 -0300
+
+    Alteracao no README.md
+
+[33mcommit d2d3be69449a9762648bb01fbca3cb0ff68deadb[m
+Author: Rodrigues Neto <rodriguesneto95@outlook.com>
+Date:   Sat Dec 5 18:57:55 2020 -0300
+
+    Primeiro Commit
